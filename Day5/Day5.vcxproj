@@ -115,7 +115,18 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <ClCompile Include="7.10strgback.cpp" />
+    <ClCompile Include="7.11travel.cpp" />
+    <ClCompile Include="7.12strctfun.cpp" />
+    <ClCompile Include="7.13strctptr.cpp" />
+    <ClCompile Include="7.14topfive.cpp" />
+    <ClCompile Include="7.15arrobj.cpp" />
+    <ClCompile Include="7.16recur.cpp" />
+    <ClCompile Include="7.17ruler.cpp" />
+    <ClCompile Include="7.18fun_ptr.cpp" />
+    <ClCompile Include="7.19arfupt.cpp" />
     <ClCompile Include="7.1calling.cpp" />
+    <ClCompile Include="7.20exercise.cpp" />
     <ClCompile Include="7.2protos.cpp" />
     <ClCompile Include="7.3twoarg.cpp" />
     <ClCompile Include="7.4lotto.cpp" />
